@@ -1,0 +1,8 @@
+# LazyVim lock file - should be generated on each machine
+lazy-lock.json
+
+# Log files
+*.log
+
+# LazyVim extras cheatsheet
+cheatsheet.txt
